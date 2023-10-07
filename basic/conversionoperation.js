@@ -35,4 +35,3 @@ const newStringOne= "   Ram   "
 const url ="https://somiran.com/somiran%ray"
 console.log(url.replace('%','_'));
 console.log(url.search("ray"));
-console.log(url.length);
